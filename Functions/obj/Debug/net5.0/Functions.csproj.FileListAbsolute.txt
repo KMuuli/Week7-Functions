@@ -1,0 +1,16 @@
+C:\Users\37253\source\repos\Functions\Functions\bin\Debug\net5.0\Functions.exe
+C:\Users\37253\source\repos\Functions\Functions\bin\Debug\net5.0\Functions.deps.json
+C:\Users\37253\source\repos\Functions\Functions\bin\Debug\net5.0\Functions.runtimeconfig.json
+C:\Users\37253\source\repos\Functions\Functions\bin\Debug\net5.0\Functions.runtimeconfig.dev.json
+C:\Users\37253\source\repos\Functions\Functions\bin\Debug\net5.0\Functions.dll
+C:\Users\37253\source\repos\Functions\Functions\bin\Debug\net5.0\ref\Functions.dll
+C:\Users\37253\source\repos\Functions\Functions\bin\Debug\net5.0\Functions.pdb
+C:\Users\37253\source\repos\Functions\Functions\obj\Debug\net5.0\Functions.csproj.AssemblyReference.cache
+C:\Users\37253\source\repos\Functions\Functions\obj\Debug\net5.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37253\source\repos\Functions\Functions\obj\Debug\net5.0\Functions.AssemblyInfoInputs.cache
+C:\Users\37253\source\repos\Functions\Functions\obj\Debug\net5.0\Functions.AssemblyInfo.cs
+C:\Users\37253\source\repos\Functions\Functions\obj\Debug\net5.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\37253\source\repos\Functions\Functions\obj\Debug\net5.0\Functions.dll
+C:\Users\37253\source\repos\Functions\Functions\obj\Debug\net5.0\ref\Functions.dll
+C:\Users\37253\source\repos\Functions\Functions\obj\Debug\net5.0\Functions.pdb
+C:\Users\37253\source\repos\Functions\Functions\obj\Debug\net5.0\Functions.genruntimeconfig.cache
